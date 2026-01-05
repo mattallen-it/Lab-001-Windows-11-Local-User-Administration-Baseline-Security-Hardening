@@ -1,4 +1,4 @@
-## — Permission & Access Testing
+## Permission & Access Testing
 
 ###  Test Scenarios
 
