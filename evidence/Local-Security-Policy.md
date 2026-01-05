@@ -29,7 +29,7 @@ Apply and document local password and account lockout policies on a Windows 11 P
 
 ## Evidence
 
-### Password Policy
+## Password Policy
 ![Password Policy Configuration](evidence/password-policy.png)
 
 ### Account Lockout Policy
