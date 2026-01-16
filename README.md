@@ -1,4 +1,4 @@
-# Lab 001 – Windows 11 Local User Administration & Baseline Security Hardening
+# lab 001 – windows 11 local user administration & baseline security hardening
 
 ## What This Lab Is
 A practical Windows 11 Pro lab that simulates real Tier 1 IT support and entry-level security tasks.  
